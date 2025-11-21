@@ -23,7 +23,7 @@
 1. **Clone the Repository**  
    Open terminal or command prompt and run:
    ```bash
-   git clone https://github.com/Abhishek-inc/Abhishek_Thakur_DS_InTune.git
+   git clone https://github.com/Abhishek-inc/InTune.git
    cd InTune
    ```
 
