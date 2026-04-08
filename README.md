@@ -1,11 +1,5 @@
 # 🎧 InTune - Interactive Online Radio Platform
 
-## 👨‍💻 Team Members
-- Uday (Team Leader)
-- Abhishek
-- Sourabh
-- Yash
-
 ## 📄 Project Description
 **InTune** is a real-time interactive radio platform that allows users to stream music by genre and chat live with others — all from a clean, browser-based interface. Unlike traditional radio, it fosters engagement and community by integrating a live chatbox alongside seamless music streaming, with no login required.
 
