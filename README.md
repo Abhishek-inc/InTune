@@ -52,5 +52,4 @@
 - Responsive, clean UI
 - Community-driven experience
 
-## GitHub Repository Link
-[https://github.com/Abhishek-inc/Abhishek_Thakur_DS_InTune](https://github.com/Abhishek-inc/InTune)
+## [GitHub Repository Link](https://github.com/Abhishek-inc/InTune)
