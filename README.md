@@ -3,9 +3,6 @@
 ## 📄 Project Description
 **InTune** is a real-time interactive radio platform that allows users to stream music by genre and chat live with others — all from a clean, browser-based interface. Unlike traditional radio, it fosters engagement and community by integrating a live chatbox alongside seamless music streaming, with no login required.
 
-## 🎥 Video Explanation
-[Watch the Video Presentation Here](https://drive.google.com/file/d/1ai5_zkU8It6ynA6ws2V6E3wAWoJodSUM/view?usp=drive_link)
-
 ## 🧰 Technologies Used
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Backend:** Python (Flask)
